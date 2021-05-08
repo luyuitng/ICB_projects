@@ -1,0 +1,129 @@
+Tumor,Mutation , Data
+ACC,Amp,5.49
+ACC,Mut,0
+ACC,Fusion,0
+ACC,Multiple,0
+AML,Amp,0.5
+AML,Mut,2.5
+AML,Fusion,1
+AML,Multiple,0
+Bladder,Amp,17.76
+Bladder,Mut,13.63
+Bladder,Fusion,1.95
+Bladder,Multiple,0
+Breast invasive carcinoma breast,Amp,15.41
+Breast invasive carcinoma breast,Mut,0.37
+Breast invasive carcinoma breast,Fusion,0.37
+Breast invasive carcinoma breast,Multiple,0.65
+ccRCC,Amp,9.2
+ccRCC,Mut,0
+ccRCC,Fusion,0.2
+ccRCC,Multiple,0
+Cervical,Amp,5.05
+Cervical,Mut,0.67
+Cervical,Fusion,1.68
+Cervical,Multiple,0
+Cholangiocarcinoma,Amp,0
+Cholangiocarcinoma,Mut,5.56
+Cholangiocarcinoma,Fusion,13.89
+Cholangiocarcinoma,Multiple,0
+Chromophobe RCC,Amp,0
+Chromophobe RCC,Mut,0
+Chromophobe RCC,Fusion,1.54
+Chromophobe RCC,Multiple,0
+Colorectal,Amp,5.89
+Colorectal,Mut,1.01
+Colorectal,Fusion,0.17
+Colorectal,Multiple,0
+DLBC,Amp,4.17
+DLBC,Mut,0
+DLBC,Fusion,1.1
+DLBC,Multiple,0
+Esophagus,Amp,15.38
+Esophagus,Mut,1.1
+Esophagus,Fusion,0.55
+Esophagus,Multiple,0
+GBM,Amp,27.53
+GBM,Mut,0.68
+GBM,Fusion,0.34
+GBM,Multiple,1.69
+Head&neck,Amp,11.66
+Head&neck,Mut,1.53
+Head&neck,Fusion,0.38
+Head&neck,Multiple,0
+LGG,Amp,8.56
+LGG,Mut,0.19
+LGG,Fusion,0.97
+LGG,Multiple,1.36
+Liver,Amp,2.96
+Liver,Mut,0.81
+Liver,Fusion,1.08
+Liver,Multiple,0
+Lung adeno,Amp,9.54
+Lung adeno,Mut,1.06
+Lung adeno,Fusion,0.35
+Lung adeno,Multiple,0.18
+Lung sqe,Amp,33.68
+Lung sqe,Mut,2.67
+Lung sqe,Fusion,1.64
+Lung sqe,Multiple,0.21
+Melanoma,Amp,7.21
+Melanoma,Mut,6.08
+Melanoma,Fusion,0.23
+Melanoma,Multiple,0.9
+Mesothelioma,Amp,1.15
+Mesothelioma,Mut,0
+Mesothelioma,Fusion,0
+Mesothelioma,Multiple,0
+Ovarian,Amp,11.82
+Ovarian,Mut,0.51
+Ovarian,Fusion,0.51
+Ovarian,Multiple,0.17
+Pancreas,Amp,8.64
+Pancreas,Mut,0
+Pancreas,Fusion,0
+Pancreas,Multiple,0
+PCPG,Amp,3.93
+PCPG,Mut,4.49
+PCPG,Fusion,0
+PCPG,Multiple,0
+pRCC,Amp,1.06
+pRCC,Mut,1.06
+pRCC,Fusion,0.17
+pRCC,Multiple,0
+Prostate,Amp,5.06
+Prostate,Mut,0.2
+Prostate,Fusion,0.2
+Prostate,Multiple,0
+Sarcoma,Amp,19.61
+Sarcoma,Mut,0.78
+Sarcoma,Fusion,0.39
+Sarcoma,Multiple,0
+Stomach,Amp,10.23
+Stomach,Mut,0.68
+Stomach,Fusion,0.23
+Stomach,Multiple,0.23
+Testicular germ cell,Amp,4.7
+Testicular germ cell,Mut,12.08
+Testicular germ cell,Fusion,0
+Testicular germ cell,Multiple,1.34
+Thymoma,Amp,0.81
+Thymoma,Mut,0.81
+Thymoma,Fusion,0
+Thymoma,Multiple,0
+Thyroid,Amp,0.2
+Thyroid,Mut,0
+Thyroid,Fusion,7
+Thyroid,Multiple,0
+Uterine,Amp,6.99
+Uterine,Mut,11.53
+Uterine,Fusion,0
+Uterine,Multiple,0.38
+Uterine CS,Amp,14.41
+Uterine CS,Mut,1.75
+Uterine CS,Fusion,0
+Uterine CS,Multiple,0
+Uveal melanoma,Amp,0
+Uveal melanoma,Mut,0
+Uveal melanoma,Fusion,0
+Uveal melanoma,Multiple,0
